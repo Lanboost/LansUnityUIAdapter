@@ -17,4 +17,10 @@ FAIR USE statement as I have only copied the necessary interface to work togethe
 The interface therefore remains under copyright of `Unity` however the implementation of the interface is under MIT license.
 
 The uGUI code itself is not part of this repository (its linked as a submodule) and it is under the license `Unity Companion License`
+
 https://github.com/Unity-Technologies/uGUI/blob/2019.1/LICENSE
+
+
+## Support me!
+
+[<img src="https://raw.githubusercontent.com/Lanboost/RandomStuff/master/patreon.png">](https://www.patreon.com/bePatron?u=53447812)
