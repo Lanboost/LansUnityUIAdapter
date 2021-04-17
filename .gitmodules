@@ -1,0 +1,3 @@
+[submodule "UnityTechnologies-uGUI"]
+	path = UnityTechnologies-uGUI
+	url = https://github.com/Unity-Technologies/uGUI.git

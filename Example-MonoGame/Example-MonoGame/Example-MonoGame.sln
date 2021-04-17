@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1062
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example-MonoGame", "Example-MonoGame.csproj", "{BD00069C-E83E-4119-832B-C2812D8A3DC7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnityEngineAdapter", "..\..\UnityEngineAdapter\UnityEngineAdapter.csproj", "{CC7DA569-D0AC-4E6B-B158-116D5E25BB9C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityTechnologies-uGUI-Library", "..\..\UnityTechnologies-uGUI-Library\UnityTechnologies-uGUI-Library.csproj", "{CF6A018D-630D-46D6-8296-46A045F68319}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		Test|Any CPU = Test|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD00069C-E83E-4119-832B-C2812D8A3DC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD00069C-E83E-4119-832B-C2812D8A3DC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD00069C-E83E-4119-832B-C2812D8A3DC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD00069C-E83E-4119-832B-C2812D8A3DC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD00069C-E83E-4119-832B-C2812D8A3DC7}.Test|Any CPU.ActiveCfg = Release|Any CPU
+		{BD00069C-E83E-4119-832B-C2812D8A3DC7}.Test|Any CPU.Build.0 = Release|Any CPU
+		{CC7DA569-D0AC-4E6B-B158-116D5E25BB9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC7DA569-D0AC-4E6B-B158-116D5E25BB9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC7DA569-D0AC-4E6B-B158-116D5E25BB9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC7DA569-D0AC-4E6B-B158-116D5E25BB9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC7DA569-D0AC-4E6B-B158-116D5E25BB9C}.Test|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC7DA569-D0AC-4E6B-B158-116D5E25BB9C}.Test|Any CPU.Build.0 = Debug|Any CPU
+		{CF6A018D-630D-46D6-8296-46A045F68319}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF6A018D-630D-46D6-8296-46A045F68319}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF6A018D-630D-46D6-8296-46A045F68319}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF6A018D-630D-46D6-8296-46A045F68319}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF6A018D-630D-46D6-8296-46A045F68319}.Test|Any CPU.ActiveCfg = Release|Any CPU
+		{CF6A018D-630D-46D6-8296-46A045F68319}.Test|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF76A1BC-469F-4070-8098-73A3B17576B0}
+	EndGlobalSection
+EndGlobal
