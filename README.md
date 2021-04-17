@@ -9,9 +9,9 @@ Instead by writing a "small" adapter for the engine's rendering of components on
 It also gives the possability to setup and create your UI directly in the `Unity Editor` and then export and run it in outside.
 
 
-# !!! LICENSE !!!
+# !!! LICENSE (use the `interface` on your own risk!)!!!
 
-The `UnityEngineAdapter` are based on the interface (API) provided by `UnityEngine` (WHICH ARE UNDER COPYRIGHT) I imply a 
+The `UnityEngineAdapter` are based on the interface (API) provided by `UnityEngine` (WHICH IS UNDER COPYRIGHT). I imply a 
 FAIR USE statement as I have only copied the necessary interface to work together with the code provided in `UnityTechnologies-uGUI`.
 
 The interface therefore remains under copyright of `Unity` however the implementation of the interface is under MIT license.
